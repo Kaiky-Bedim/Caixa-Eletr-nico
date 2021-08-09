@@ -1,0 +1,34 @@
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\bin\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.exe
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\bin\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.deps.json
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\bin\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.runtimeconfig.json
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\bin\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\bin\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.dll
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\bin\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.pdb
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.Form1.resources
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.Properties.Resources.resources
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.dll
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.pdb
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Tecnico\Atividades PVB\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.Banco.resources
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\bin\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.exe
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\bin\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.deps.json
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\bin\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.runtimeconfig.json
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\bin\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.runtimeconfig.dev.json
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\bin\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.dll
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\bin\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.pdb
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.csproj.AssemblyReference.cache
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.Banco.resources
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.Form1.resources
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.Properties.Resources.resources
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.csproj.GenerateResource.cache
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.AssemblyInfoInputs.cache
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.AssemblyInfo.cs
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.dll
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.pdb
+C:\Users\Hp\Caixa-Eletr-nico\Esboço_CaixaEletrônico\obj\Debug\netcoreapp3.1\Esboço_CaixaEletrônico.genruntimeconfig.cache
